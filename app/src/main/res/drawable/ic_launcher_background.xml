@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Dark Premium Background base color (#161616) -->
+    <path
+        android:fillColor="#161616"
+        android:pathData="M0,0h108v108h-108z" />
+    
+    <!-- Cinematic viewfinder aesthetic ticks -->
+    <!-- Top-Left tick -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M15,25 L15,15 L25,15"
+        android:strokeColor="#C6E61A"
+        android:strokeWidth="1.5"
+        android:strokeAlpha="0.4" />
+    <!-- Top-Right tick -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M93,25 L93,15 L83,15"
+        android:strokeColor="#C6E61A"
+        android:strokeWidth="1.5"
+        android:strokeAlpha="0.4" />
+    <!-- Bottom-Left tick -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M15,83 L15,93 L25,93"
+        android:strokeColor="#C6E61A"
+        android:strokeWidth="1.5"
+        android:strokeAlpha="0.4" />
+    <!-- Bottom-Right tick -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M93,83 L93,93 L83,93"
+        android:strokeColor="#C6E61A"
+        android:strokeWidth="1.5"
+        android:strokeAlpha="0.4" />
+
+    <!-- Center target hair crosses -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,8 L54,16 M54,92 L54,100 M8,54 L16,54 M92,54 L100,54"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="0.8"
+        android:strokeAlpha="0.15" />
+</vector>

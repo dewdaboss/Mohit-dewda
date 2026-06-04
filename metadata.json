@@ -1,0 +1,6 @@
+{
+  "name": "Creative Team Production",
+  "description": "Premium production house management ecosystem for professional photography, videography, booking management, and AI marketing assistance in Indore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

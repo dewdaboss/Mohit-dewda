@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Luxury Gold/Lime Cinematic Border Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,24 A30,30 0 1,1 53.9,24 Z"
+        android:strokeColor="#C6E61A"
+        android:strokeWidth="5" />
+    <!-- Elite Inner Camera Lens core -->
+    <path
+        android:fillColor="#111111"
+        android:pathData="M54,32 A22,22 0 1,1 53.9,32 Z" />
+    <!-- Cinematic Aperture blade accents in Lime -->
+    <path
+        android:fillColor="#C6E61A"
+        android:pathData="M54,34 L54,38 L48,46 L42,42 Z" />
+    <path
+        android:fillColor="#C6E61A"
+        android:pathData="M64,44 L60,42 L52,50 L56,54 Z" />
+    <path
+        android:fillColor="#C6E61A"
+        android:pathData="M48,64 L52,60 L60,68 L56,72 Z" />
+    <!-- Outer ring pulse decoration -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,14 A40,40 0 1,1 53.9,14 Z"
+        android:strokeColor="#C6E61A"
+        android:strokeWidth="1.5"
+        android:strokeAlpha="0.3" />
+</vector>
